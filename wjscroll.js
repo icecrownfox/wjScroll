@@ -25,7 +25,7 @@
 *		}
 *		在创建滚动条的DOM上会赠送一个 setScrollTop(y)方法用于设置滚动的位置。
 *		ex: DOM.setScrollTop(100);就会将滚动滑块向下滚动100px.
-*
+*  
 */
 (function(){	
 	var 
